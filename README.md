@@ -11,9 +11,8 @@
 
 - 📫 How to reach me **mishraanshuman1008@gmail.com**
 
-- 📄 Know about my experiences [-https://drive.google.com/file/d/1qDdP0UxTk31oTNSYcCVz5wd7aHjuyP2b/view?usp=sharing
-](-https://drive.google.com/file/d/1qDdP0UxTk31oTNSYcCVz5wd7aHjuyP2b/view?usp=sharing
-)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qDdP0UxTk31oTNSYcCVz5wd7aHjuyP2b/view?usp=sharing
+](https://drive.google.com/file/d/1qDdP0UxTk31oTNSYcCVz5wd7aHjuyP2b/view?usp=sharing)
 
 - ⚡ Fun fact **Just to Work**
 
