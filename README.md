@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anshuman Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cseanshu&label=Profile%20views&color=0e75b6&style=flat" alt="cseanshu" /> </p>
 
-- 🔭 I’m currently working on **FilmyDuniya**
+- 🔭 I’m  Currently building **DevTinder**
 
-- 🌱 I’m currently learning **Node.js, Express.js**
+- 🌱 Time Tide and Javascript wait for None
 
-- 💬 Ask me about **Javascript, React.js**
+- 💬 Ask me about **Javascript, React.js Node.js**      
 
 - 📫 How to reach me **mishraanshuman1008@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19YENAomAgdkYN6SztSAYBlpWmLPgZgoa/view?usp=sharing](https://drive.google.com/file/d/12nTbKZBkJVCosDJiF42QSLBVDaCqVp-K/view?usp=sharing)
+- 📄 Know about my experiences [-https://drive.google.com/file/d/1qDdP0UxTk31oTNSYcCVz5wd7aHjuyP2b/view?usp=sharing
+](-https://drive.google.com/file/d/1qDdP0UxTk31oTNSYcCVz5wd7aHjuyP2b/view?usp=sharing
+)
 
 - ⚡ Fun fact **Just to Work**
 
